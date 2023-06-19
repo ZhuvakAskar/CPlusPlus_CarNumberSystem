@@ -1,0 +1,5 @@
+﻿  CarNumbSys.cpp
+  main.cpp
+C:\Users\user\Desktop\DZ9\DZ9\main.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  DZ9.vcxproj -> C:\Users\user\Desktop\DZ9\Debug\DZ9.exe
